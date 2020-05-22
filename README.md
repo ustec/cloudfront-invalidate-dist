@@ -10,7 +10,7 @@ Install the [Serverless Framework](https://serverless.com/) if you don't have it
 
 ### Deploy
 
-    git clone https://github.com/jweyrich/cloudfront-invalidate-dist.git
+    git clone https://github.com/ustec/cloudfront-invalidate-dist.git
     cd cloudfront-invalidate-dist
     serverless deploy [--aws-profile yourProfile]
 
